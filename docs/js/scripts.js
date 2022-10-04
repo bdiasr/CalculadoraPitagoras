@@ -14,6 +14,8 @@ function insertCatetoC(num){
     document.getElementById("HipotenusaValor").innerHTML = num;
 }
 
+
+//limpa os campos 
 function limpa(){
     document.getElementById('catetoA').value = '';
     document.getElementById('catetoC').value = '';
@@ -23,6 +25,8 @@ function limpa(){
     document.getElementById("catetoAValor").innerHTML = 'Cateto A';
 }
 
+
+//realiza o calculo de pitagoras de acordo com as duas variaveis fornecidas
 function calculaPitagoras(){
 
     var catetoA, catetoB, hipo; 
