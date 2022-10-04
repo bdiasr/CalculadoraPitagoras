@@ -7,5 +7,9 @@
 
 Disponivel também no git Pages: https://bdiasr.github.io/CalculadoraPitagoras/
 
+<h4 align="center"> 
+  Status do projeto: Concluído
+</h4>
+
 
 
