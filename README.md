@@ -7,7 +7,7 @@
 
 Disponivel também no git Pages: https://bdiasr.github.io/CalculadoraPitagoras/
 
-![GitHub Pages]([https://pbs.twimg.com/profile_banners/41742474/1490016588/1500x500)](https://bdiasr.github.io/CalculadoraPitagoras/)
+ [!GitHub Pages](https://bdiasr.github.io/CalculadoraPitagoras/) 
 
 <h4 align="center"> 
   Status do projeto: Concluído
